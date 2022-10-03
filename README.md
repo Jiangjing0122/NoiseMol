@@ -3,7 +3,7 @@ The code of the NoiseAug model. Article: NoiseAug: Data Augmentation via Perturb
 
 Package description data Dataset used in the experiments in the article
 
-NoiseAug Python files to build a MultiGran model for molecular property predictions.
+NoiseAug Python files to build a NoiseAug model for molecular property predictions.
 
 # Requirements
 
