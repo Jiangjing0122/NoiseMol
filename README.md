@@ -17,4 +17,7 @@ python 1.7.1
 
 numpy 1.21.2
 
-The code of the NoiseAug model will be upload after the paper be accepted.
+# Run code
+
+python main.py
+Datasets can be changed in the 222 line of main.py.
